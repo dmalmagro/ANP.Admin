@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'dmalmagro-01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB8B4082A855422C8BA7F5FFA3C9EB86 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D64EFE370EF74529B6BBC76C961389EE }}
           package: .
